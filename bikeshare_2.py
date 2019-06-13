@@ -226,7 +226,7 @@ def user_stats(df):
 def main():
     while True:
 
-        print('github project change #1')
+        print('github project change #1 - submit2')
         print('github project change #2')
         city, month, day = get_filters()
         df = load_data(city, month, day)
