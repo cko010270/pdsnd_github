@@ -13,4 +13,4 @@ Chicago.csv, new york city.csv, washington.csv, bikeshare_2.py
 were files that were used.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+www.stackoverflow.com
